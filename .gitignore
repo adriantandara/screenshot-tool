@@ -1,0 +1,42 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# .NET Core / .NET
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Rider settings
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]evelopmentPublic/
+Release/
+ReleasePublic/
+x64/
+x86/
+arm/
+arm64/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Tye (for microservices)
+.tye/
+
+# VS for Mac
+.vscode/
